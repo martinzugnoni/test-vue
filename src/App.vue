@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Test Vue app" />
-    <h3>Branch: master</h3>
+    <h3>Branch: feature-1</h3>
   </div>
 </template>
 
